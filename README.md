@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Tengo que hacer algo con esto ni bien tenga algo de tiempo
+Tengo que hacer algo con esto ni bien tenga algo de tiempo 🌱
 
 <!--
 **biojuampa/biojuampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
